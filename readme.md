@@ -74,6 +74,7 @@ h1{ font-size: 1.2rem; }
 
 - Criar uma variação desse layout
 - Adicionar novas seções, como a de depoimentos.
+- Adaptar lógica para a fluídez das funcionalidades.
 
 ---  
 
