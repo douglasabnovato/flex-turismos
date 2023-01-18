@@ -80,6 +80,7 @@ h1{ font-size: 1.2rem; }
 - [ ] acessibilidade
 - [ ] modo dark / light
 - [ ] interatividade, crud, json
+- [ ] favicon
 
 ---  
 
