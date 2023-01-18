@@ -25,6 +25,7 @@
 
 - ajustado alguns detalhes na media query na dimensão 992px
 - Construindo a aplicação em versões.
+
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">  
   <img alt="Um site para uma agência de turismo" title="#FlexTurismos" src="./.github/mode-mobile-1.PNG" height="400px"> 
   <img alt="Um site para uma agência de turismo" title="#FlexTurismos" src="./.github/mode-mobile-2.PNG" height="400px"> 
@@ -58,6 +59,7 @@ h1{ font-size: 1.2rem; }
 ---  
 
 - Construindo a aplicação em versões.
+
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">  
   <img alt="Um site para uma agência de turismo" title="#FlexTurismos" src="./.github/mode-desktop-1.jpg" width="400px">
 </p>
@@ -72,13 +74,12 @@ h1{ font-size: 1.2rem; }
 
 ---  
 
-- Criar uma variação desse layout
-- Adicionar novas seções, como a de depoimentos.
-- Adaptar lógica para a fluídez das funcionalidades.
-- responsividade
-- acessibilidade
-- modo dark / light
-- variação de cores
+- [ ] Adicionar novas seções, como a de depoimentos.
+- [ ] Adaptar lógica para a fluídez das funcionalidades.
+- [ ] responsividade
+- [ ] acessibilidade
+- [ ] modo dark / light
+- [ ] interatividade, crud, json
 
 ---  
 
